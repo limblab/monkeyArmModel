@@ -317,10 +317,10 @@
 				</Body>
 				<Body name="humerus">
 					<mass>0.203</mass>
-					<mass_center> 0 0 0</mass_center>
-					<inertia_xx>0</inertia_xx>
-					<inertia_yy>0</inertia_yy>
-					<inertia_zz>0</inertia_zz>
+					<mass_center> 0 -0.0555 0</mass_center>
+					<inertia_xx>2.93e-004</inertia_xx>
+					<inertia_yy>1.73e-004</inertia_yy>
+					<inertia_zz>2.93e-004</inertia_zz>
 					<inertia_xy>0</inertia_xy>
 					<inertia_xz>0</inertia_xz>
 					<inertia_yz>0</inertia_yz>
@@ -576,7 +576,7 @@
 							<!--Name of the parent body to which this joint connects its owner body.-->
 							<parent_body>humerus</parent_body>
 							<!--Location of the joint in the parent body specified in the parent reference frame. Default is (0,0,0).-->
-							<location_in_parent>0 -0.125 -0.003</location_in_parent>
+							<location_in_parent>0 -0.130 0</location_in_parent>
 							<!--Orientation of the joint in the parent body specified in the parent reference frame. Euler XYZ body-fixed rotation angles are used to express the orientation. Default is (0,0,0).-->
 							<orientation_in_parent>0 0 0</orientation_in_parent>
 							<!--Location of the joint in the child body specified in the child reference frame. For SIMM models, this vector is always the zero vector (i.e., the body reference frame coincides with the joint). -->
@@ -702,11 +702,11 @@
 					</WrapObjectSet>
 				</Body>
 				<Body name="ulna">
-					<mass>0</mass>
-					<mass_center> 0 0 0</mass_center>
-					<inertia_xx>0</inertia_xx>
-					<inertia_yy>0</inertia_yy>
-					<inertia_zz>0</inertia_zz>
+					<mass>0.0922</mass>
+					<mass_center> 0.0040 -0.0450 0.0040</mass_center>
+					<inertia_xx>1.43e-004</inertia_xx>
+					<inertia_yy>2.07e-005</inertia_yy>
+					<inertia_zz>1.43e-004</inertia_zz>
 					<inertia_xy>0</inertia_xy>
 					<inertia_xz>0</inertia_xz>
 					<inertia_yz>0</inertia_yz>
@@ -799,7 +799,7 @@
 							<!--Name of the parent body to which this joint connects its owner body.-->
 							<parent_body>ulna</parent_body>
 							<!--Location of the joint in the parent body specified in the parent reference frame. Default is (0,0,0).-->
-							<location_in_parent>0 -0.008 0.005</location_in_parent>
+							<location_in_parent>0 -6.73e-004 -0.0172</location_in_parent>
 							<!--Orientation of the joint in the parent body specified in the parent reference frame. Euler XYZ body-fixed rotation angles are used to express the orientation. Default is (0,0,0).-->
 							<orientation_in_parent>0.03551583 0 0.01308997</orientation_in_parent>
 							<!--Location of the joint in the child body specified in the child reference frame. For SIMM models, this vector is always the zero vector (i.e., the body reference frame coincides with the joint). -->
@@ -925,11 +925,11 @@
 					</WrapObjectSet>
 				</Body>
 				<Body name="radius">
-					<mass>0</mass>
-					<mass_center> 0 0 0</mass_center>
-					<inertia_xx>0</inertia_xx>
-					<inertia_yy>0</inertia_yy>
-					<inertia_zz>0</inertia_zz>
+					<mass>0.0618</mass>
+					<mass_center> 0.0080 -0.0450 0.0080</mass_center>
+					<inertia_xx>9.53e-005</inertia_xx>
+					<inertia_yy>1.38e-006</inertia_yy>
+					<inertia_zz>9.53e-005</inertia_zz>
 					<inertia_xy>0</inertia_xy>
 					<inertia_xz>0</inertia_xz>
 					<inertia_yz>0</inertia_yz>
@@ -1115,7 +1115,7 @@
 							<!--Name of the parent body to which this joint connects its owner body.-->
 							<parent_body>radius</parent_body>
 							<!--Location of the joint in the parent body specified in the parent reference frame. Default is (0,0,0).-->
-							<location_in_parent>0.007 -0.132 -0.0015</location_in_parent>
+							<location_in_parent>0 -0.110 0</location_in_parent>
 							<!--Orientation of the joint in the parent body specified in the parent reference frame. Euler XYZ body-fixed rotation angles are used to express the orientation. Default is (0,0,0).-->
 							<orientation_in_parent>-0.00060924 0 0</orientation_in_parent>
 							<!--Location of the joint in the child body specified in the child reference frame. For SIMM models, this vector is always the zero vector (i.e., the body reference frame coincides with the joint). -->
@@ -1145,11 +1145,11 @@
 					</WrapObjectSet>
 				</Body>
 				<Body name="hand">
-					<mass>0</mass>
-					<mass_center> 0 0 0</mass_center>
-					<inertia_xx>0</inertia_xx>
-					<inertia_yy>0</inertia_yy>
-					<inertia_zz>0</inertia_zz>
+					<mass>0.0490</mass>
+					<mass_center> 0.0120 -0.0250 0.0070</mass_center>
+					<inertia_xx>3.82e-005</inertia_xx>
+					<inertia_yy>1.56e-006</inertia_yy>
+					<inertia_zz>3.82e-005</inertia_zz>
 					<inertia_xy>0</inertia_xy>
 					<inertia_xz>0</inertia_xz>
 					<inertia_yz>0</inertia_yz>
