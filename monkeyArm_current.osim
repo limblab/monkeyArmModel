@@ -118,7 +118,7 @@
 					</WrapObjectSet>
 				</Body>
 				<Body name="sternum">
-					<mass>0</mass>
+					<mass>6.6</mass>
 					<mass_center> 0 0 0</mass_center>
 					<inertia_xx>0</inertia_xx>
 					<inertia_yy>0</inertia_yy>
