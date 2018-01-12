@@ -4368,7 +4368,7 @@
 					<!--Flag (true or false) specifying whether or not a marker should be kept fixed in the marker placement step.  i.e. If false, the marker is allowed to move.-->
 					<fixed>false</fixed>
 				</Marker>
-				<Marker name="Shoulder JC">
+				<Marker name="Shoulder_JC">
 					<!--Body segment in the model on which the marker resides.-->
 					<body>humerus</body>
 					<!--Location of a marker on the body segment.-->
@@ -4376,7 +4376,7 @@
 					<!--Flag (true or false) specifying whether or not a marker should be kept fixed in the marker placement step.  i.e. If false, the marker is allowed to move.-->
 					<fixed>false</fixed>
 				</Marker>
-				<Marker name="Elbow JC">
+				<Marker name="Elbow_JC">
 					<!--Body segment in the model on which the marker resides.-->
 					<body>ulna</body>
 					<!--Location of a marker on the body segment.-->
@@ -4384,7 +4384,7 @@
 					<!--Flag (true or false) specifying whether or not a marker should be kept fixed in the marker placement step.  i.e. If false, the marker is allowed to move.-->
 					<fixed>false</fixed>
 				</Marker>
-				<Marker name="Pronation Pt1">
+				<Marker name="Pronation_Pt1">
 					<!--Body segment in the model on which the marker resides.-->
 					<body>ulna</body>
 					<!--Location of a marker on the body segment.-->
@@ -4392,7 +4392,7 @@
 					<!--Flag (true or false) specifying whether or not a marker should be kept fixed in the marker placement step.  i.e. If false, the marker is allowed to move.-->
 					<fixed>false</fixed>
 				</Marker>
-				<Marker name="Wrist JC">
+				<Marker name="Wrist_JC">
 					<!--Body segment in the model on which the marker resides.-->
 					<body>radius_jcc</body>
 					<!--Location of a marker on the body segment.-->
@@ -4400,7 +4400,7 @@
 					<!--Flag (true or false) specifying whether or not a marker should be kept fixed in the marker placement step.  i.e. If false, the marker is allowed to move.-->
 					<fixed>false</fixed>
 				</Marker>
-				<Marker name="Pronation Pt2">
+				<Marker name="Pronation_Pt2">
 					<!--Body segment in the model on which the marker resides.-->
 					<body>radius_jcc</body>
 					<!--Location of a marker on the body segment.-->
