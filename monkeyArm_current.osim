@@ -1048,7 +1048,7 @@
 								</VisibleObject>
 								<dimensions> 0.008 0.008 0.008</dimensions>
 							</WrapEllipsoid>
-							<WrapTorus name="WRIST_FLEX/EXT">
+							<WrapTorus name="WRIST_FLEX_EXT">
 								<xyz_body_rotation> 1.5708 0 0</xyz_body_rotation>
 								<translation> 0.005 -0.135 0.007</translation>
 								<active>true</active>
